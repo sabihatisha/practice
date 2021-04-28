@@ -1,0 +1,16 @@
+Topics
+----
+
+Row Html5 & Css3 - Done
+Responsive Design - Done
+Flexbox - Done
+PSD to Html - Skip
+Grid System - Pixel -> %
+---
+
+Column 12
+---
+
+
+
+Bootstrap -> Flexbox + Responsive Design + Grid System
